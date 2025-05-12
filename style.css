@@ -18,8 +18,11 @@ body, html {
     background-color: white;
     border: 1px solid black;
     margin-bottom: 20px;
+    border-radius: 5000px;
+    -webkit-transition: 1s;
 }
 
 .colored {
-    background-color: #ff0000;
+    background-color: #1b1212;
 }
+
